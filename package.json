@@ -1,0 +1,35 @@
+{
+  "name": "ameenalam",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "datatables.net": "^1.10.16",
+    "firebase": "^4.11.0",
+    "jquery": "^3.3.1",
+    "material-ui": "^0.20.0",
+    "react": "^16.3.1",
+    "react-autosize-textarea": "^3.0.2",
+    "react-bootstrap": "^0.32.1",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-mailto": "^0.4.0",
+    "react-redux": "^5.0.7",
+    "react-rnd": "^7.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-tap-event-plugin": "^3.0.2",
+    "react-transition-group": "^1.2.1",
+    "redux": "^3.7.2",
+    "redux-observable": "^0.18.0",
+    "redux-thunk": "^2.2.0",
+    "rxjs": "^5.5.7",
+    "sweetalert": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
